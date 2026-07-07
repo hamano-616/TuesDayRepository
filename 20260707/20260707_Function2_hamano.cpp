@@ -148,6 +148,7 @@ void Game()
 		else if (enhit == 3)
 		{
 			cout << "エネミーの勝ち" << endl;
+			break;
 		}
 
 	}
